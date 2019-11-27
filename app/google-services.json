@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "877073794620",
+    "firebase_url": "https://sinergika-256cc.firebaseio.com",
+    "project_id": "sinergika-256cc",
+    "storage_bucket": "sinergika-256cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877073794620:android:6e62d53e89b345e5e92539",
+        "android_client_info": {
+          "package_name": "com.acdp.sinergika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877073794620-cslc814sev7higs53tg21evg06hhkbkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acdp.sinergika",
+            "certificate_hash": "cab14cf9bc06af198174f150224cf2ac475c9762"
+          }
+        },
+        {
+          "client_id": "877073794620-r0r15fob18a3qbnqk81t70iah2c98ock.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLwZ1WxPnrP2g2u1KKc8ZW41dwO9NXlPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877073794620-r0r15fob18a3qbnqk81t70iah2c98ock.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
